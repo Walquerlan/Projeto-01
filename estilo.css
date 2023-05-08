@@ -39,7 +39,7 @@
     color: aliceblue;
     border-top: 1px grey solid;
 }
-.abc{
+.estrutura{
     display: flex;
     justify-content: center;
     background-color: black;
@@ -53,5 +53,5 @@
 
 .icones{
     display: flex;
-    gap: 20px;
+    gap: 10px;
 }
